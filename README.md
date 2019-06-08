@@ -26,6 +26,7 @@ As the name suggests, Object-Oriented Programming or OOPs refers to languages th
 ## Lesson 2: Go Deep in OOP Java
 
 Follow this [tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
+[static Versus non-static, public Versus private](https://medium.com/@gabriellamedas/differences-between-static-and-non-static-methods-in-java-b93156be75c6)
 
 ## Lesson 3: Data Structure
 [hash table](https://leetcode.com/explore/learn/card/hash-table/)
